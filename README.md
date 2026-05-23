@@ -8,10 +8,6 @@ This project is an intelligent security solution that monitors network traffic t
 - High Performance: Achieved a precision of 0.97 in detecting threats.
 - User-Friendly Interface: Built with a GUI for easy monitoring and analysis.
 
-## 📁 Project Structure
-- IDS.py: The core engine of the system (Main Python Code).
-- NIDS_Technical_Report.pdf: A comprehensive technical report covering data preprocessing, model training, and evaluation.
-- requirements.txt: List of necessary Python libraries.
 
 ## 📊 Technical Highlights
 - Algorithm: Random Forest Classifier.
