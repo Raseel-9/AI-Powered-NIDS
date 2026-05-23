@@ -12,6 +12,6 @@ This project is an intelligent security solution that monitors network traffic t
 ## 📊 Technical Highlights
 - Algorithm: Random Forest Classifier.
 - Dataset: NSL-KDD (Standard benchmark for NIDS evaluation).
-- Preprocessing: Label Encoding, Feature Scaling, and PCA for dimensionality reduction.
+
 
 ---
